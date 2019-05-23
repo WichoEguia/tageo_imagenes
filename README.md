@@ -1,5 +1,8 @@
 # Clasificador de imagenes
 
+Jose Luis Eguía Téllez 1791916
+Mayo/2019
+
 Este programa está escrito en python y utiliza las librerias Tensorflow y Keras.
 Las categorias en las que puede caer cada imagen son **Gorila, Perro y Gato**.
 
